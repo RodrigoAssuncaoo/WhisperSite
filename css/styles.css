@@ -10974,3 +10974,8 @@ header.masthead h1, header.masthead .h1 {
 .nav-link {
     color: black !important;
 }
+
+.logo {
+  max-height: 200px;
+  margin-bottom: 20px;
+}
